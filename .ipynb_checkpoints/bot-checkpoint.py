@@ -46,7 +46,7 @@ clear_old_tasks()
 
 @dp.message(Command("start"))
 async def start_command(message: Message):
-    await message.answer("Привет! Я твой планер-бот. Какие задачи?")
+    await message.answer("Привет! Я твой планер-бот. Какие планы на сегодня?")
 
 @dp.message(Command("list"))
 async def list_tasks(message: Message):
