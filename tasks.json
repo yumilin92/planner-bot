@@ -1,0 +1,21 @@
+{
+    "date": "2025-02-17",
+    "1755160605": [
+        {
+            "task": "clean house",
+            "done": false
+        },
+        {
+            "task": "wash dishes",
+            "done": false
+        },
+        {
+            "task": "shopping",
+            "done": false
+        },
+        {
+            "task": "workout",
+            "done": false
+        }
+    ]
+}
